@@ -1,0 +1,8 @@
+gradio
+pillow
+torch
+torchvision
+pandas
+pymysql
+cryptography
+werkzeug
